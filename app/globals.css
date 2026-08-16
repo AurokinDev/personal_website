@@ -71,7 +71,6 @@ h1 {
   max-inline-size: min(10ch, 88vw);
   overflow-wrap: anywhere;
   text-wrap: balance;
-  -webkit-text-stroke: 1px rgba(16, 7, 29, 0.86);
   text-shadow: 0 0 0.8rem rgba(7, 3, 13, 0.92), 0 0 2.7rem rgba(7, 3, 13, 0.8);
 }
 
